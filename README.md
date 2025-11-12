@@ -30,4 +30,4 @@
 
     JavaScript
 
-<img src="./src/img/layout.gif" alt="Prévia do layout do site Estilo Fino"/>
+<img src="./src/img/layout.gif" alt="Prévia do layout do site Estilo Fino" width:500px/>
