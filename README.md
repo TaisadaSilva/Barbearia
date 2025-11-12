@@ -30,5 +30,9 @@
 
     JavaScript
 
+<<<<<<< HEAD
 <img src="./src/img/layout.gif" width="1000px" />
 
+=======
+<img src="./src/img/layout.mp4" width="1000px" />
+>>>>>>> f3c7824 (atualização video)
