@@ -30,4 +30,4 @@
 
     JavaScript
 
-<img src="./src/img/layout.mp4" />
+<img src="./src/img/layout.gif" />
